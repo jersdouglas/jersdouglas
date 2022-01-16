@@ -1,4 +1,4 @@
-<h1>##Hi, I'm Jefferson Douglas and I'm 27 years old.</h1>
+<h1>Hi, I'm Jefferson Douglas and I'm 27 years old.</h1>
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jersdouglas&show_icons=true&theme=tokyonight"/>
