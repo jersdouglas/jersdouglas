@@ -1,5 +1,6 @@
 <div align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/96750685/151174689-9df1b593-7d73-42ed-bbf9-6e0e248a9c4d.gif"/>
+<img width="30%" src="https://user-images.githubusercontent.com/96750685/151458627-4df208cb-3145-4c0e-841f-b0562c15a9e0.gif"/>
+
 <h1>Hi, I'm Jefferson Douglas and I'm 27 years old.</h1>
 </div>
 
