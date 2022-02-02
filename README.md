@@ -6,13 +6,13 @@
 
 <hr>
 
-<div>
+<div align="center" style="display: flex">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jersdouglas&show_icons=true&theme=tokyonight"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jersdouglas&layout=compact&theme=tokyonight"/>  
 </div><br>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jersdouglas&hide=javascript,html(https://github.com/jersdouglas/github-readme-stats)"/>
+<div align="center" style="display: flex">
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jersdouglas&hide=javascript,html(https://github.com/jersdouglas/github-readme-stats)"/>
 </div>
 <br>
 
