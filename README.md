@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1>Hi, I'm Jefferson Douglas dos Santos</h1>
+<h1>Hi, I'm Jefferson Douglas dos Santos 👍🏿</h1>
 </div>
 
 <hr>
