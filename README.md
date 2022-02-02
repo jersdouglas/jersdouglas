@@ -12,7 +12,7 @@
 </div><br>
 
 <div align="center" style="display: flex">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jersdouglas&hide=javascript,html(https://github.com/jersdouglas/github-readme-stats)"/>
+  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jersdouglas&hide=javascript,html(https://github.com/jersdouglas/github-readme-stats)"/>
 </div>
 <br>
 
