@@ -1,7 +1,3 @@
-<div>
-<img width="20%" src="https://cdn.discordapp.com/attachments/1137788975751372932/1138233310758318170/d2c573e9-6dce-4f81-b90a-3112f986fc44-transformed.png"/>
-</div>
-
 <div align="center">
 <h1>Hi, I'm Jefferson Douglas dos Santos 👍🏿</h1>
 </div>
