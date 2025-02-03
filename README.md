@@ -6,13 +6,7 @@
 <div align="center" style="display: flex; margin-top: 40px;">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jersdouglas&show_icons=true&theme=tokyonight"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jersdouglas&layout=compact&theme=tokyonight"/>  
-</div><br>
-
-
-<br>
-
-
-<hr>
+</div>
 
 <div align="center" style="display: flex"><br/>
   <h1> Skills </h1>
